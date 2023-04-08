@@ -4,6 +4,7 @@
     "slug": "ideotreamingpp",
     "version": "1.0.0",
     "orientation": "portrait",
+    "runtimeVersion": "android-legacy",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
